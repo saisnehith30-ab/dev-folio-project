@@ -51,9 +51,9 @@ if (form) {
 }
 const words = [
   "Full Stack Developer",
-  "Java Developer",
-  "AI Enthusiast",
-  "Data Science Student"
+  "Data Science Student",
+  "AI Enthusiast",  
+  "Java Developer"
 ];
 
 let wordIndex = 0;
