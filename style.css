@@ -400,4 +400,22 @@ html,body{
         font-size:15px;
     }
 
+}/* About Section Mobile Spacing */
+@media (max-width: 768px) {
+
+    #about {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    #about p {
+        text-align: justify;
+        padding: 0 5px;
+        line-height: 1.8;
+    }
+
+    #about h2 {
+        margin-bottom: 20px;
+    }
+
 }
